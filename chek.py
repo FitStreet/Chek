@@ -1,8 +1,5 @@
 """Task 1"""
 
-from collections.abc import Iterable
-
-
 class Auto:
     def ride(self):
         print("Riding on a ground")
